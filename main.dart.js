@@ -95010,7 +95010,7 @@ var $async$lz=A.G(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:i=A.a([],t.VF)
 p=4
 s=7
-return A.P(A.b72(A.hC("https://favroll.ddns.net/item",0,null)),$async$lz)
+return A.P(A.b72(A.hC("https://api.favroll.ae/item",0,null)),$async$lz)
 case 7:n=c
 if(n.b===200){k=n
 m=B.bu.er(0,A.b6J(A.b4d(k.e).c.a.h(0,"charset")).er(0,k.w))
@@ -95044,7 +95044,7 @@ A.ajL.prototype={
 $1(a){var s=t.VF,r=A.a([],s),q=A.a([],t.s),p=new A.a8h($,new A.Pf(A.a([],t.f8)),$,new A.a56(),!1),o=A.aWA()
 p.X4$=o
 p.aq7$=new A.a5z(A.aN(t.Gf))
-o.X5$="https://favroll.ddns.net"
+o.X5$="https://api.favroll.ae"
 o.sVF(B.Dt)
 p.X4$===$&&A.b()
 s=new A.jx(r,q,new A.agp(new A.a8g(p)),A.a([],s),$.bA())
